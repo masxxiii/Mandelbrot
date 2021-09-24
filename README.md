@@ -18,6 +18,6 @@ Click on Draw and the fractal will be drawn.
 <p align="center">
   <img src="./gitResources/pic1.PNG.PNG" alt="UI" width="400" height="400">
 </p>
-## Note
 
+## Note:
 Feel free to download the project and build upon it. Happy coding!
