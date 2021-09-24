@@ -16,7 +16,7 @@ The project should be opened in **Microsoft Visual Studio**. Simply compile the 
 Click on Draw and the fractal will be drawn.
 
 <p align="center">
-  <img src="./gitResources/pic1.PNG" alt="UI" width="400" height="400">
+  <img src="./gitResources/pic1.PNG.PNG" alt="UI" width="400" height="400">
 </p>
 ## Note
 
