@@ -1,0 +1,16 @@
+C:\Users\Masood\Downloads\Computer Graphics\Lab2\Mandelbroth_Set\Mandelbroth_Set\bin\Debug\netcoreapp3.1\Mandelbroth_Set.exe
+C:\Users\Masood\Downloads\Computer Graphics\Lab2\Mandelbroth_Set\Mandelbroth_Set\bin\Debug\netcoreapp3.1\Mandelbroth_Set.deps.json
+C:\Users\Masood\Downloads\Computer Graphics\Lab2\Mandelbroth_Set\Mandelbroth_Set\bin\Debug\netcoreapp3.1\Mandelbroth_Set.runtimeconfig.json
+C:\Users\Masood\Downloads\Computer Graphics\Lab2\Mandelbroth_Set\Mandelbroth_Set\bin\Debug\netcoreapp3.1\Mandelbroth_Set.runtimeconfig.dev.json
+C:\Users\Masood\Downloads\Computer Graphics\Lab2\Mandelbroth_Set\Mandelbroth_Set\bin\Debug\netcoreapp3.1\Mandelbroth_Set.dll
+C:\Users\Masood\Downloads\Computer Graphics\Lab2\Mandelbroth_Set\Mandelbroth_Set\bin\Debug\netcoreapp3.1\Mandelbroth_Set.pdb
+C:\Users\Masood\Downloads\Computer Graphics\Lab2\Mandelbroth_Set\Mandelbroth_Set\obj\Debug\netcoreapp3.1\Mandelbroth_Set.csproj.AssemblyReference.cache
+C:\Users\Masood\Downloads\Computer Graphics\Lab2\Mandelbroth_Set\Mandelbroth_Set\obj\Debug\netcoreapp3.1\Mandelbroth_Set.Form1.resources
+C:\Users\Masood\Downloads\Computer Graphics\Lab2\Mandelbroth_Set\Mandelbroth_Set\obj\Debug\netcoreapp3.1\Mandelbroth_Set.csproj.GenerateResource.cache
+C:\Users\Masood\Downloads\Computer Graphics\Lab2\Mandelbroth_Set\Mandelbroth_Set\obj\Debug\netcoreapp3.1\Mandelbroth_Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masood\Downloads\Computer Graphics\Lab2\Mandelbroth_Set\Mandelbroth_Set\obj\Debug\netcoreapp3.1\Mandelbroth_Set.AssemblyInfoInputs.cache
+C:\Users\Masood\Downloads\Computer Graphics\Lab2\Mandelbroth_Set\Mandelbroth_Set\obj\Debug\netcoreapp3.1\Mandelbroth_Set.AssemblyInfo.cs
+C:\Users\Masood\Downloads\Computer Graphics\Lab2\Mandelbroth_Set\Mandelbroth_Set\obj\Debug\netcoreapp3.1\Mandelbroth_Set.csproj.CoreCompileInputs.cache
+C:\Users\Masood\Downloads\Computer Graphics\Lab2\Mandelbroth_Set\Mandelbroth_Set\obj\Debug\netcoreapp3.1\Mandelbroth_Set.dll
+C:\Users\Masood\Downloads\Computer Graphics\Lab2\Mandelbroth_Set\Mandelbroth_Set\obj\Debug\netcoreapp3.1\Mandelbroth_Set.pdb
+C:\Users\Masood\Downloads\Computer Graphics\Lab2\Mandelbroth_Set\Mandelbroth_Set\obj\Debug\netcoreapp3.1\Mandelbroth_Set.genruntimeconfig.cache
